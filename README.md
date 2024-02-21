@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Important Note
+
+This repo is thanks to the Next.js & Contentful tutorial by [Net Ninja](https://github.com/iamshaunjp). I used Next.Js with app routing for this project. So some basic staff changed from the original material.
+
 ## Getting Started
 
 First, run the development server:
