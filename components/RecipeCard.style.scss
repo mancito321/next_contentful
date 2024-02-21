@@ -1,0 +1,39 @@
+
+.card {
+  .featured{ 
+    display: flex;
+    justify-content: center;
+  }
+  .content {
+    background-color: theme('colors.white');
+    border-radius: theme('borderRadius.lg');
+    padding: theme('spacing.6');
+    box-shadow: theme('boxShadow.xl');
+    position: relative;
+    top: -40;
+
+  }
+  .info{
+    padding: 16px;
+    h4 {
+      margin: 4px 0;
+      text-transform: uppercase;
+    }
+    p {
+      margin: 0;
+      color: #777;
+    }
+  }
+  .actions {
+    
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    a {
+      color: aliceblue;
+      background-color: blueviolet;
+      padding: 16px 24px;
+      text-decoration: none;
+    }
+  }
+}
